@@ -35,8 +35,8 @@ Per the project's own distributed README (Build Version 1.0 Beta, 2016): this is
 Clone the repository:
 
 ```bash
-git clone https://github.com/paoradox/Java-Tree-Structure.git
-cd Java-Tree-Structure
+git clone https://github.com/paoradox/Java-Binary-Search-Tree.git
+cd Java-Binary-Search-Tree
 ```
 
 To build from source, open the project in NetBeans (or run Ant directly using `build.xml`).
@@ -70,7 +70,7 @@ You'll be prompted for the number of elements and each value; the tree structure
 ## Project Structure
 
 ```
-Java-Tree-Structure/
+Java-Binary-Search-Tree/
 ├── dist/
 │   ├── TreeTest.jar             # Packaged runnable jar
 │   ├── TreeTest BETA.exe         # Windows launcher for the jar
