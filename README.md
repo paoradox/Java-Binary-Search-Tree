@@ -1,4 +1,4 @@
-# Java-Tree-Structure (Binary Search Tree)
+# Java-Binary-Search-Tree
 
 A Java Swing desktop app that visually demonstrates tree data structures — Binary Search Trees (BST) and AVL trees — including insertion, deletion, traversal, and a graphical display of the tree.
 
